@@ -8,9 +8,8 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        YekanBakh: ["YekanBakh", "sans-serif"], // اضافه کردن فونت
       },
     },
   },
